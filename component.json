@@ -2,10 +2,10 @@
   "name": "angular-route",
   "repo": "CamShaft/component-angular-route",
   "description": "Component version of Angular route",
-  "version": "1.2.0",
+  "version": "1.2.16",
   "keywords": [],
   "dependencies": {
-    "CamShaft/component-angular": "1.2.0"
+    "CamShaft/component-angular": "1.2.16"
   },
   "development": {},
   "license": "MIT",
